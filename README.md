@@ -1,4 +1,6 @@
-This is my final project of Marketing Analytics. Our team's goal is to build recommendation systems on Meetups dataset.
+This is my final project of Marketing Analytics at UT MSBA, Fall 2019. 
+
+Our team's goal is to build recommendation systems on Meetups dataset.
 
 Link to dataset: https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
 
